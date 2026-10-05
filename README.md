@@ -2,6 +2,7 @@
 Henrique Maia Reis
 
 **Objetivo do Projeto**
+
 O projeto foi desenvolvido como uma etapa da fase 2, o entregável 1 do processo seletivo da Nautilus UFRJ.
 O objetivo foi criar um programa em Python que verifique se um robô possui bateria suficiente para realizar uma missão, considerando um consumo constante de bateria por minuto.
 
